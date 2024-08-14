@@ -128,6 +128,3 @@ if __name__ == '__main__':
 - **File Not Found**: Ensure the PDF file path is correct.
 - **No Data Extracted**: Verify that the patterns in the `extract_savings_info` function match the content in your PDF.
 
----
-
-This Markdown file provides a clear guide for users to run the Python script, including setup instructions, code, and troubleshooting tips.
